@@ -1,7 +1,7 @@
-# SDS110_Lab2
+# SDS110_Lab3
 ## Identification
-  - title/: Changes of the river Rhein
-  - description/: How did the area of the Rier Rhein changes between 1860 and 2025 between Landqart and Balzers
+  - title/: Mapping with Folium
+  - description/: 
 ## Data
   - raw/:
   - processed/:
